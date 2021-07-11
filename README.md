@@ -1,5 +1,5 @@
 # retoMaster
-A se dio uso a un host gratuito por parte de Azure para realizar la página web, esperamos sea de su agrado.
+A se dió uso a un host gratuito por parte de Azure para realizar la página web, esperamos sea de su agrado.
 
 Equipo conformado por: 
 * Luz Margarita Flores 
