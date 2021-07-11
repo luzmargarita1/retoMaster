@@ -323,13 +323,6 @@ button {
      padding-bottom: 25px;
      font-weight: bold;
 }
-.text-bg3 h2 {
-     color: #fff;
-     font-size: 30px;
-     line-height: 40px;
-     padding-bottom: 12px;
-     font-weight: bold;
-}
 
 .text-bg span {
      color: #fdd430;
@@ -345,11 +338,6 @@ button {
      padding: 40px 0;
 }
 
-.text-bg2 p {
-     color: #fff;
-     font-size: 17px;
-     line-height: 28px;
-}
 .text-bg a {
      font-size: 16px;
      background-color: #fff;
